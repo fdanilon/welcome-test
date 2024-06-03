@@ -19,5 +19,5 @@
     - npx cypress run
 
 # Evidências
-Screenshots -> welcome-test\cypress\screenshots\test1.cy.js
-Video -> welcome-test\cypress\videos\test1.cy.js
+- Screenshots -> welcome-test\cypress\screenshots\test1.cy.js
+- Video -> welcome-test\cypress\videos\test1.cy.js
