@@ -16,3 +16,8 @@
     - npm init
     - npm install cypress --save-dev
     - npm install -D cypress-xpath
+    - npx cypress run
+
+# Evidências
+Screenshots -> welcome-test\cypress\screenshots\test1.cy.js
+Video -> welcome-test\cypress\videos\test1.cy.js
